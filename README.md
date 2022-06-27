@@ -1,1 +1,3 @@
 # refactoring-assignment
+
+This project instructed us students to optimize the current HTML and CSS structure. What I found on the HTML page was an undiscriptive title, a broken link, missing alt texts, repetitive <div> elements, and unorganized headers. On the CSS page I found class elements that were repeated unnecessarily so they were then consolidated to take up less space. The end result led to a page that functions properly and has reader accessibility, as well as code that is easier to read.
